@@ -33,7 +33,19 @@ Implement a production-style multi-tier architecture
 Apply DevOps and cloud engineering best practices
 Improve fault tolerance, scalability, and availability
 
+Skill Demonstrated 
+This project showcase practical experience in 
+Cloud Engineering
+AWS Architecture Design
+Infrastructure as Code (IaC)
+Networking & Security
+Terraform Automation
+Load Balancing & Auto Scaling
+DevOps Practices 
+High Availability Design
+Git/Github Version Control
 
 Conclusion
+This project represents a real-world cloud infrastructure deployment that simulates how modern production - grade web applications are hosted in AWS environments. By leveraging Terraform and AWS Services the solution provides scalabitlity , automation , security and high availability while following industry following industry-standard cloud architecture practices. 
 
 This project represents a real-world cloud infrastructure deployment that simulates how modern production-grade web applications are hosted in AWS environments. By leveraging Terraform and AWS services, the solution provides scalability, automation, security, and high availability while following industry-standard cloud architecture practices.
